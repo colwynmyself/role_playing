@@ -22,6 +22,8 @@ Katirci lives in a suite in TKO holdings. They've got a lot of real estate in th
 
 We put an inquiry in for an insurance quote on our ship to see if we get anyting from him. We get nothing.
 
-Vinicius Otero reaches out to Chao and says they have another job for you. There's a reasearcher in a biolab that has some pig embrios that would be useful for the belt.
+Vinicius Otero reaches out to Chao and says they have another job for you. There's a reasearcher in a biolab that has some pig embrios that would be useful for the belt. We have 24 hours to respond.
+
+As we approach Ganymede we're stopped and told we need to wait 48 hours to dock. Addy tries to persuade them to let us land earlier but fucks it up so we're searched on the way in. They don't find anything and we convince them our goal on Ganymede is to check in on Katirca to make sure he's okay. This may play in later when we knock him out and kidnap him as our Chao's patient.
 
 ## Landing on Ganymede
