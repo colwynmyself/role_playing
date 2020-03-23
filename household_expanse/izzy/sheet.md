@@ -4,15 +4,16 @@
 
 Condition     None
 Fortune [18]  18
-Income  [2]   2
+Income  [3]   3
 Penalty       0
+Armor         1
 
 ### General
 
 Level                     2
 Defense    (10 + Dex)     13
 Speed      (10 + Dex)     13
-Toughness  (Con + Armor)  0
+Toughness  (Con + Armor)  1
 
 ### Abilities
 
@@ -43,7 +44,7 @@ Willpower       2
 
 ### Combat
 
-* Pistol   (2d6+1)
+* Pistol   (2d6+1) x2
 * Unarmed  (1d3+1)
 
 #### Conditions
@@ -80,6 +81,9 @@ Willpower       2
 ### Equipment
 
 * Pistol
+* Padding
+* Small drone
+  * Toolkit (intelligence)
 
 ## Relationships
 

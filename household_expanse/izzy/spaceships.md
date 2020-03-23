@@ -3,9 +3,14 @@
 ## Sommelier
 
 Type: Small Freighter
-Description: Starting ship, used for transport
+Description: Starting ship, used for transport. Modified with some guns from the Picas.
 
-## Picas
+### Weapons
 
-Type: Small Freighter
-Description: Ship found in adventure 2. Acquired through some smooth talking with some pirates. Legitimate salvage!
+* 2 PDCs
+* Torpedo bay
+  * 2 torpedoes
+
+### Loading bay
+
+* Construction mech
