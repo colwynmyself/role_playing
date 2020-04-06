@@ -2,11 +2,11 @@
 
 ## Status
 
-Condition     None
-Fortune [18]  18
-Income  [3]   3
-Penalty       0
-Armor         1
+Condition       None
+Fortune   [18]  18
+Income    [3]   3
+Penalty         0
+Armor           1
 
 ### General
 
